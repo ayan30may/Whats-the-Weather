@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="enter_location">enter location...</string>
+    <string name="city">City</string>
+    <string name="_0_c">0°c</string>
+    <string name="description">description</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind">Wind</string>
+    <string name="_0">0 %</string>
+    <string name="_0_hg">0 Hg</string>
+    <string name="_0_km_h">0 Km/h</string>
+</resources>
